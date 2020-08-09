@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_margin_10dp">10dp</dimen>
+    <dimen name="common_padding_5dp">5dp</dimen>
+    <dimen name="view_height_50dp">50dp</dimen>
+    <dimen name="common_margin_5dp">5dp</dimen>
+    <dimen name="common_padding_10dp">10dp</dimen>
+    <dimen name="common_padding_20dp">20dp</dimen>
+</resources>

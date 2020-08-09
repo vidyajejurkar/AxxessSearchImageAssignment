@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Axxess</string>
+    <string name="home_text_search">Search</string>
+    <string name="title_hint_type_message">search image here...</string>
+    <string name="search_hint">search here</string>
+    <string name="action_search">search...</string>
+    <string name="hexagon">Hexagon</string>
+    <string name="submit">Submit</string>
+    <string name="comment">type to comment here...</string>
+</resources>
